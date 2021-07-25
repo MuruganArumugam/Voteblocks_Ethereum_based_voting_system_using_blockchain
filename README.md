@@ -1,7 +1,15 @@
+VoteBlocks (Voting system using Blockchain)
+
+Technologies used : Ethereum blockchain, Next Js, React Js, Solidity and Python flask.
+
 •	Developed a Decentralized Application using Ethereum Blockchain Technology to conduct elections. 
+
 •	In this application, Information on how many votes each candidate has received is transparent. 
+
 •	People can vote from anywhere with their laptop by using their voter ID card and the Aadhar card. 
+
 •	Voters can print their voting receipts with their transaction id after voting. 
+
 •	The admin can create elections, begin/stop the elections, add candidates and controls the whole process.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
